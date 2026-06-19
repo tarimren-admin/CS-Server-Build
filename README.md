@@ -34,3 +34,6 @@ CS 1.6 服务器构建平台基于HLDS，包含ReHLDS、ReGameDLL等
 ## 09.ReChecker 
 * Windows和Linux操作系统的2.7版本
 * resources.ini已深度汉化，并提供最新的文件核查库，包括违规皮肤模型、地图纹理的核查
+
+## 100.Final-Product 
+* 成品服务器版本发布区
