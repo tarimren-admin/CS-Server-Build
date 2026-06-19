@@ -5,8 +5,8 @@
 # CS1.6 服务器构建平台
 CS 1.6 服务器构建平台基于HLDS，包含ReHLDS、ReGameDLL等
 
-## 01.HLDS-8684
-* 官方发布的Windows和Linux 8684版本
+## 01.HLDS
+* 官方发布的Windows和Linux版本
 
 ## 02.ReHLDS
 * 官方发布的3.15.0.896以及3.15.0.898-DEV版本
